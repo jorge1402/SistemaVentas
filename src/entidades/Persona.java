@@ -1,4 +1,5 @@
 package entidades;
+//es un comentario
 public class Persona {
     private String nombre;
     private String apellido;
